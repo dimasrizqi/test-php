@@ -1,4 +1,4 @@
 <?php
-echo "ini terbaru";
+echo "ini terbaru 2x";
 phpinfo();
 ?>
